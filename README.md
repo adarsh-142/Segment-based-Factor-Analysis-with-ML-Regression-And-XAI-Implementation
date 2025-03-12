@@ -1,6 +1,6 @@
 # Segment-based-Factor-Analysis-with-ML-Regression-And-XAI-Implementation
 
-This project analyzes a dataset containing hospital inpatient discharge records. The primary objective is to clean and preprocess the data for further analysis, including handling missing values, converting variables, removing outliers, and conducting statistical tests. After which, a brief EDA process is focused on the dependent variable, Length of Stay (LoS) with relationships against the other independent variables explored, which in turn gives a small glimpse into the significant factors affecting LoS for both subgroups before the modelling phase.
+This project analyzes a dataset containing hospital inpatient discharge records found [here(https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]. The primary objective is to clean and preprocess the data for further analysis, including handling missing values, converting variables, removing outliers, and conducting statistical tests. After which, a brief EDA process is focused on the dependent variable, Length of Stay (LoS) with relationships against the other independent variables explored, which in turn gives a small glimpse into the significant factors affecting LoS for both subgroups before the modelling phase.
 
 ## Project Overview
 
