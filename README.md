@@ -1,0 +1,2 @@
+# Segment-based-Factor-Analysis-with-ML-Regression-And-XAI-Implementation
+A Machine Learning project implementation that focuses on leveraging Python libraries and Jupyter notebooks to analyze differences between significant factors affecting a patient's Length of Stay in hospital among both elective and emergency admissions to effectively make clinical decisions to help smoothen the hospital workflow and optimize LoS.
